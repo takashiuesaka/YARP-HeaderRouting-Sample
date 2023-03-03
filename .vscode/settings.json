@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net7.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/7712a98a-1373-40e4-8c0f-a09ade38e5c3/resourceGroups/rg-yarp-test/providers/Microsoft.Web/sites/msue-yarp-test"
+}
